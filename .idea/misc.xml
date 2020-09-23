@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/heima_ssm_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="d233ea49-9215-47de-bf4a-63fee45d53ac" />
+      <option name="name" value="d233ea49-9215-47de-bf4a-63fee45d53ac" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bc7adc37-e58f-4dc0-b8ab-41d6c4cc154b" />
+      <option name="name" value="bc7adc37-e58f-4dc0-b8ab-41d6c4cc154b" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="6b2d727f-ff86-4741-bd09-b7cc3967abde" />
+      <option name="name" value="6b2d727f-ff86-4741-bd09-b7cc3967abde" />
+      <option name="url" value="https://repository.jboss.org/nexus/service/local/" />
+    </remote-repository>
+  </component>
+</project>

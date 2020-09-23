@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:16:23:30 +0800] "POST /heima_ssm_web/product/save.do HTTP/1.1" 302 - http-bio-8888-exec-1 1239
+0:0:0:0:0:0:0:1 - - [21/Sep/2020:16:23:31 +0800] "GET /heima_ssm_web/product/findAll.do HTTP/1.1" 200 26503 http-bio-8888-exec-3 1000
